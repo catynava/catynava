@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=4000&pause=1500&color=c084fc&center=true&vCenter=true&width=650&lines=Estudiante+de+Ingenieria+en+Sistemas;Instituto+Tecnologico+de+La+Piedad;Aprendiendo+y+creciendo+cada+dia;Construyendo+mi+futuro+en+tecnologia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=4000&pause=1500&color=c084fc&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenieria+en+Sistemas+Computacionales+%7C+ISC)](https://git.io/typing-svg)
 
 </div>
 
