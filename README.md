@@ -6,11 +6,29 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=4000&pause=1500&color=c084fc&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenieria+en+Sistemas+Computacionales+%7C+ISC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=4000&pause=1500&color=c084fc&center=true&vCenter=true&width=700&lines=Estudiante+de+Ingenieria+en+Sistemas+Computacionales+%7C+ISC;Aprendiendo+a+programar)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
+
+---
+
+## Sobre mi
+
+Soy estudiante de Ingenieria en Sistemas Computacionales en el Instituto Tecnologico de La Piedad. Estoy en mis primeros pasos en el mundo de la programacion, con ganas de aprender y crecer cada dia.
+
+---
+
+## Herramientas que estoy aprendiendo
+
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
 
 ---
 
@@ -35,4 +53,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,50:4a0080,100:0d0d0d&height=130&section=footer" width="100%"/>
 
 </div>
-
